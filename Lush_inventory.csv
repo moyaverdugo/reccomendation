@@ -1,0 +1,166 @@
+Item ID,Name of the Item,Categories,Price
+8aa63377-3c25-46a1-afef-05dfd30f600c,Lavender Dream,Bath Bombs,9.56
+db0249fc-9693-4f54-9707-5b4ad75fe865,Rose Bliss,Bath Bombs,8.05
+f2e11ea9-862f-4ccd-8099-94be05031aa4,Citrus Burst,Bath Bombs,15.7
+900d7870-6ecd-4ae1-9065-100108ac6c7d,Eucalyptus Breeze,Bath Bombs,20.07
+4919b896-07b3-4cf6-803c-aae3ebb54025,Ocean Mist,Bath Bombs,17.74
+87ed3907-eccd-4fe2-87b7-0fab1ddcb15e,Rainbow Fizz,Bubble Bars,6.58
+2b0ba7d9-c331-4b73-93cf-ff06b43c1f4d,Lemonade Splash,Bubble Bars,10.78
+aebdc8fb-76b0-41ef-a428-fd115a0b6480,Peppermint Swirl,Bubble Bars,9.1
+20aea34e-68eb-48b7-910a-098dcad72cfe,Rosemary Retreat,Bubble Bars,24.98
+f7c026d6-767d-47c1-a461-b20934f044d1,Chamomile Calm,Bubble Bars,21.55
+6cb64d43-3d8d-42a1-89db-ebcc088a0b57,Lilac Lushie,Little Lushies,18.15
+98c8867a-8163-4987-9f2c-b85787c246e0,Peachy Lushie,Little Lushies,8.12
+902dea53-ef13-47e6-8f4c-ac826ea58e59,Minty Lushie,Little Lushies,22.46
+ff207113-5bea-4381-a574-dad7d5bb390c,Cherry Lushie,Little Lushies,12.03
+7ce4e8b3-bb66-4103-a361-675da85152d8,Cocoa Lushie,Little Lushies,9.85
+06e2fcc8-4506-4876-80d2-9c8c127cf375,Soothing Lavender,Bath Oils,11.65
+275aaf00-fa8f-4479-9c3c-6926a87b9cf7,Refreshing Citrus,Bath Oils,5.96
+7df4307b-0849-43fb-b7f1-6b400a0a57df,Calming Chamomile,Bath Oils,18.57
+fc29a8c3-e8a2-41ef-9313-cd664db81f74,Energizing Peppermint,Bath Oils,16.15
+9bcd1d5a-3942-4a22-bb96-35f044f960a3,Romantic Rose,Bath Oils,9.12
+5eac843e-341d-4927-bd0e-afd0db8689ff,Lavender Meltdown,Aroma and Bath Melts,6.64
+30859228-fb6e-43e7-94a4-a243568f0c08,Citrus Sunshine,Aroma and Bath Melts,5.47
+7b8ac850-3460-400a-8f3f-172c93a81893,Rose Garden,Aroma and Bath Melts,7.32
+c6c5a47d-61e6-4c11-9e3f-64182dc51ab9,Mint Freshness,Aroma and Bath Melts,23.51
+e8613851-d5f7-43ee-8301-a8c36b1b61c5,Jasmine Blossom,Aroma and Bath Melts,22.77
+509a15a2-b9f2-4a12-8389-33e52f2f149f,Morning Dew,Shower Gels,11.98
+ad037b21-9978-4ce5-a17a-8714a1931edc,Sunset Bliss,Shower Gels,17.63
+2c5616e5-faee-451a-9636-7fd9991533b3,Tropical Splash,Shower Gels,16.41
+f3e0de34-d38c-4e3c-b3d2-cb334e0295ea,Ocean Wave,Shower Gels,22.32
+3db91a22-e9f8-403f-a698-e4d2d0c15bd1,Forest Retreat,Shower Gels,10.51
+2e809516-0451-49ac-84da-41154df0012f,Charcoal Detox,Bar Soap,20.94
+02a2411f-d5c5-4e5e-9bf7-25c4316a9d83,Rose Petal,Bar Soap,16.26
+bbd926c3-e6da-4011-ac09-8f58e7d7f9f8,Lavender Calm,Bar Soap,6.01
+04a77970-c732-4676-a901-644ddf36db7c,Citrus Zest,Bar Soap,7.17
+87ba7bb7-5c1d-4446-99ff-e65b0e58e931,Mint Fresh,Bar Soap,17.92
+1e2aa202-75dd-4837-9925-dffc6361af45,Sea Salt Glow,Body Scrubs,12.88
+d3806251-202c-46d3-97ff-86414c158651,Sugar Smooth,Body Scrubs,20.19
+e9f21936-be64-437e-837b-00eadb4a68c9,Coffee Revive,Body Scrubs,7.37
+5a317faa-fbe5-4a2b-aae9-9b4c333568a3,Citrus Polish,Body Scrubs,19.3
+a0897a93-9bfb-4517-b7b1-df22cd6eecd6,Lavender Relax,Body Scrubs,9.7
+f3fe7e59-d8d4-45f3-a8e2-672660d7c3b6,Cocoa Deep Nourish,Body Butters and Conditioners,11.57
+3c5b28de-a03f-44a2-9705-6a50ff712411,Shea Smooth,Body Butters and Conditioners,11.98
+603263a4-8f68-439e-bb55-b23cbff13812,Mango Delight,Body Butters and Conditioners,5.63
+02df103e-d3e9-4ced-ae6c-ac57443d2e8b,Coconut Rich,Body Butters and Conditioners,16.66
+3d2d37c0-ce0b-47a5-b829-2bcb3b555034,Olive Enrich,Body Butters and Conditioners,20.62
+57978ce5-b689-4462-9c6d-2ba31a5acad7,Eucalyptus Blast,Shower Bombs,20.48
+7acfe326-8535-4eef-be41-6943e4f776ff,Rose Revival,Shower Bombs,21.74
+3d4bc65b-1044-4acc-90f7-0a234f4a7e98,Citrus Burst,Shower Bombs,11.35
+9243f201-3235-45b8-839d-a60e47e6705d,Lavender Lull,Shower Bombs,15.85
+ec37a0e9-25d7-49e1-8cbd-346a599c2885,Peppermint Punch,Shower Bombs,20.67
+cebc0561-e72d-43e1-beb6-e05885a9a230,Smooth Silk,Shaving Creams,22.53
+26e716af-5437-47a2-8c4c-238cd9411d3e,Cooling Mint,Shaving Creams,24.03
+67998094-e6b3-403c-915a-1ed2243f9f5a,Lavender Calm,Shaving Creams,24.74
+f47d09b9-06fe-48b5-bb7f-b39eb83fb64b,Aloe Soothe,Shaving Creams,5.71
+459a6d6c-d1ef-4d40-834f-879ea051cd6f,Citrus Fresh,Shaving Creams,5.49
+77f5a993-3110-434a-93ab-0e27ca152724,Detox Charcoal,Body Cleansers,9.02
+e2bd8a65-bfba-41b3-892f-09972cfb15ce,Lavender Soothe,Body Cleansers,8.48
+72dfe388-b62d-4533-905b-4777a3a5a78b,Citrus Revive,Body Cleansers,22.82
+d556a3ed-3b1e-487b-bed4-7a9033d7480a,Mint Refresh,Body Cleansers,8.16
+c8695d57-eaba-4a53-b51a-2bf3bfe58d70,Rose Petal,Body Cleansers,22.14
+33e4b01a-893c-4470-b617-1c16816fce2f,Charcoal Cleanse,Cleansers and Scrubs,15.57
+889c2c00-9fa0-4359-baac-e875d8ee9a78,Mint Exfoliate,Cleansers and Scrubs,6.44
+3019046b-bc15-49da-9768-93ccaddcc2ac,Rose Renew,Cleansers and Scrubs,13.07
+32fa2dfb-1d66-4226-a4f4-2fc1ab9b80fb,Lavender Soften,Cleansers and Scrubs,6.99
+7ebd7b49-b520-41ae-8493-65464575d9e1,Citrus Brighten,Cleansers and Scrubs,20.67
+f5f98dfe-1197-4ae1-8188-ebfc4787e994,Hydra Boost,Moisturizers,14.51
+aa36d271-2e0e-4918-b848-127bec1cfbcf,Nourish Plus,Moisturizers,6.16
+407c0709-ca37-4c9c-8ec3-db3d3895481a,Radiance Glow,Moisturizers,11.06
+6f57d727-61e5-454e-bf76-a27c701f91ec,Soft Touch,Moisturizers,10.41
+9bca7ac0-d91a-4ee8-8df9-7e171631b051,Aqua Quench,Moisturizers,7.68
+578e64cc-0fc5-49bb-8875-ee2d3c52a409,Rose Revive,Toners,8.36
+2d925dfa-0bb2-4a6b-9e2f-1dc04aaa2fb8,Lavender Calm,Toners,7.04
+ec7ff441-46d0-4b26-be9f-1e3db62e5473,Citrus Balance,Toners,13.35
+da81eb0d-58f6-432c-8330-354c08e18530,Mint Refresh,Toners,10.01
+a2dc50b8-9c25-475d-8e36-59d0d07d5640,Aloe Soothe,Toners,20.41
+0e0429de-702e-4041-a6ed-a37a648ad89b,Clay Detox,Masks,24.6
+d82ba51b-01f7-4095-b942-b3935727dfd1,Honey Nourish,Masks,10.72
+fc088d17-5a73-46ed-9a97-ee2d3259b147,Seaweed Purify,Masks,23.83
+c847d578-0bfa-4753-b071-ff3ad020c92d,Charcoal Clear,Masks,19.39
+7c1cfb52-00c0-423e-8c42-5a0851cd2252,Fruit Glow,Masks,13.39
+c820ec5f-b6c9-4f57-93b4-e34f131b4a28,Natural Radiance,Makeup,7.32
+3d8224fa-9e85-427b-9cf6-60ee6716ae0c,Silk Foundation,Makeup,5.05
+6170750a-752e-4db8-af89-6eb0b081bfea,Lush Lash,Makeup,13.71
+6270ed69-d547-4814-bcb3-8af00de8dfc7,Berry Blush,Makeup,7.24
+0d074bb0-3dbb-460e-acf1-a1c0f324fd51,Sunset Eye Palette,Makeup,10.22
+5c5d3e73-ae21-425e-a55f-2a5e3032bea0,Bright Eye Cream,Eye Skincare,5.84
+e0c5ad34-0fcf-4e3e-955a-169bf44e52b6,Lifting Serum,Eye Skincare,15.72
+952eef51-e646-4bb6-b821-03cbb70a61a8,Cooling Gel,Eye Skincare,8.0
+b2fd75b0-de3a-4d4f-ae3b-ca4a02b30ea5,Hydrating Mask,Eye Skincare,5.77
+6c618aa5-e675-45b5-906e-4c8b1c69550a,Revitalizing Roller,Eye Skincare,12.64
+97e0ce5a-a9e4-4457-905e-b379f0ab0f5e,Sugar Kiss,Lip Scrubs and Balms,12.64
+41ed7e23-487e-4500-9621-8d46a494162e,Rose Petal,Lip Scrubs and Balms,5.21
+65216dd3-05e8-47e5-a3d1-03d9722e5e8f,Mint Fresh,Lip Scrubs and Balms,20.01
+feae7cd0-6fea-47f4-b26e-45406ba45972,Berry Smooth,Lip Scrubs and Balms,5.15
+fac0a6ba-b948-4efe-886b-a227cb0d7c74,Honey Nourish,Lip Scrubs and Balms,15.58
+a57b018c-c21b-4f3a-bcc1-a00d26918aa1,Fresh Mint Toothpaste,Oral Care,8.47
+390350e6-48b1-416a-9366-fa9c3516ec72,Whitening Strips,Oral Care,16.78
+ef31a87f-3749-44d4-8003-0367927e5a4e,Herbal Mouthwash,Oral Care,7.32
+71628224-77a7-4267-ab7c-701feec73dcd,Charcoal Toothbrush,Oral Care,13.93
+3d0d5c7d-5d68-4094-8d95-c097473b709a,Cleansing Gum Serum,Oral Care,9.86
+96896e26-e7ff-4212-9ec1-433fc2b685b9,Cooling Shave Gel,Shaving,8.14
+a673aec6-fe72-47ba-886e-7af2c760d04d,Silk Shave Cream,Shaving,11.43
+861efadb-b50b-4584-a874-c3f8e28fe471,Post-Shave Balm,Shaving,22.43
+56d7d935-6c13-469b-baf3-471ce395a403,Soothing Shave Oil,Shaving,19.53
+b42061bd-6063-4e26-8ef7-4f3578b932e9,Charcoal Razor,Shaving,21.38
+590e0328-df47-4c6a-9cba-2483aba0b088,Herbal Infusion,Vegan Skincare,20.94
+e7642be2-8c7c-4646-b4a5-3a896c9f17b4,Fruit Revive,Vegan Skincare,6.63
+39c38ff2-7bc7-4019-872a-cd9e4a46ebdb,Floral Calm,Vegan Skincare,6.87
+df641ed3-587b-4aa6-b302-911ad933f5c0,Nutrient Boost,Vegan Skincare,18.81
+44b4e4ad-fa5f-44fd-9e07-cd4ca646d1cc,Hydrating Bloom,Vegan Skincare,19.8
+8a3704fd-ce3a-4fe2-aa23-21addfd4a5bd,Lavender Bloom,Shampoo Bars,13.6
+e52745b2-97d4-489d-9f60-2fd4392f1285,Rosemary Growth,Shampoo Bars,15.39
+2c15d31e-bdd2-4596-aa43-edf4e020db89,Citrus Shine,Shampoo Bars,9.66
+d9cb63f9-8b59-4012-a57f-e5a078ac14dc,Peppermint Fresh,Shampoo Bars,9.89
+daee7362-acc9-4fda-8118-3dfd15d28937,Chamomile Soothe,Shampoo Bars,16.89
+592019af-0cd9-41f2-87ba-7fac0d812f60,Nourish and Shine,Shampoo,20.26
+a7ae08f6-b0c4-4782-984e-fe4565ce8643,Volume Boost,Shampoo,7.6
+39091d92-2d7c-413f-bf2d-283600f7d3ca,Color Protect,Shampoo,12.17
+e69ff554-6006-469e-bd9f-446493392cca,Hydrate Plus,Shampoo,16.26
+59d22c7a-a7a8-4828-ace4-46fb3d2ce394,Damage Repair,Shampoo,20.85
+d9942ff1-3e01-4bdb-8a0c-b0f2c50cb08b,Smooth Silk,Conditioners,14.39
+72c0bdfc-1d1d-4d79-803f-064df1096470,Hydra Nourish,Conditioners,8.98
+98c2e0c8-3962-44e7-aca9-214ecb42e9ef,Volume Lift,Conditioners,8.74
+8e5a3cd9-ddb4-49af-bc6f-84299d60ea1f,Color Preserve,Conditioners,7.99
+969c790a-bb7f-4295-9374-e978871d0829,Keratin Repair,Conditioners,8.65
+adc86607-5031-4026-b37e-76dc48584114,Argan Oil Serum,Hair Treatments,12.48
+c4806252-76bd-46b1-ba11-0e03ca63089a,Keratin Smooth,Hair Treatments,15.33
+7539cd1d-203a-4336-ae9c-9a2a5cb20fc5,Protein Repair,Hair Treatments,13.13
+dcc11d19-c063-4851-945e-f23041a78e01,Hydrating Mask,Hair Treatments,16.63
+20d3ddfb-ceab-40d1-bae2-7982df53c84e,Color Save,Hair Treatments,10.87
+289dbb79-7d38-4ad2-8d4d-60398857359c,Flexible Hold Spray,Styling,18.99
+384743b3-4954-4322-b35a-4a2a8df598ef,Shine Serum,Styling,15.74
+09f91624-eaf5-446f-aebf-53b28bd185d8,Texture Paste,Styling,16.46
+d868ceb4-4087-4f22-a2bc-72a5cd34394d,Volume Mousse,Styling,21.61
+f3a13f65-a91e-49ea-b650-d2b090eaffd1,Curl Defining Cream,Styling,8.26
+84caaf2c-5554-4a24-9d80-6434ad0a9e28,Natural Black,Henna Hair Dyes,5.66
+e1640fb1-aa8b-474d-8280-5665d8d89b1d,Rich Brown,Henna Hair Dyes,22.43
+5de01b13-006f-4519-965c-bdf103986285,Burgundy Bliss,Henna Hair Dyes,20.29
+36820ff6-74a3-4125-aa9e-4d956d0f9be7,Copper Radiance,Henna Hair Dyes,9.46
+16987df0-3daa-4a8d-a694-08475c8238ff,Mahogany Depth,Henna Hair Dyes,16.63
+1e96b906-4ea2-44c6-add8-04f9a583d7be,Shea Nourish,Body Lotions,11.22
+d13d9cef-4824-4fd2-8004-36b1034109ec,Cocoa Soft,Body Lotions,24.94
+317f92fe-205d-402d-8ac5-b7bcc27aa729,Mango Hydrate,Body Lotions,19.03
+2f3aa1f7-df05-4191-8d45-91aa1b51ce9c,Aloe Soothe,Body Lotions,16.56
+846e0162-8bea-46c2-bed4-47c8ac6ca64c,Lavender Calm,Body Lotions,23.47
+c5ebf39a-e96f-492d-96c5-b8ad41613caa,Lavender Relax,Massage Bars,20.8
+6356eb17-99a9-45bc-b541-25b37b1f9c47,Rose Bliss,Massage Bars,7.53
+f5112e2e-6745-4245-ab5c-6c6c72e65331,Citrus Energize,Massage Bars,14.5
+d519f41e-03de-413a-af5f-47c70db17f99,Peppermint Soothe,Massage Bars,24.6
+4bd43679-5192-4230-a1d6-5630577d108f,Chamomile Calm,Massage Bars,14.55
+62bc44be-d74e-4a25-adae-ce42d1e6fdff,Nourishing Hand Cream,Handcare,18.97
+df77ca8d-ec18-40aa-ac4a-bcee688f69f1,Silk Hand Serum,Handcare,19.62
+0a5d697a-b2f2-488e-bd57-8e4aced76ee7,Hydrating Hand Mask,Handcare,6.31
+0c6b9226-f437-48f1-ab5a-c3de2bcb8797,Repairing Hand Balm,Handcare,18.8
+3b41359c-9bb9-46fa-8d3e-e4a75ab9d9e6,Softening Hand Scrub,Handcare,5.4
+688545f6-8978-4808-96e0-bb00f60612e6,Cooling Foot Gel,Footcare,9.16
+26413757-4cd6-4138-aff4-8ed76dbf87be,Peppermint Foot Cream,Footcare,12.58
+2d3ab3b9-5186-444e-852f-f1093288294b,Exfoliating Foot Scrub,Footcare,23.18
+3c13d2ec-0875-4096-9b50-ffa9dcf55c51,Soothing Foot Soak,Footcare,14.47
+a3d2abcf-8c21-406a-a032-76fb8381c507,Healing Foot Balm,Footcare,5.27
+793224c3-7caf-4835-95a3-5a64f8435470,Fresh Citrus,Deodorants and Dusting Powders,23.69
+1bd66c7a-169f-4c4d-8e64-10bf0959f4f9,Lavender Calm,Deodorants and Dusting Powders,19.69
+d1e8f1b8-fe08-44e3-9d0b-c41448df4fc7,Rose Bliss,Deodorants and Dusting Powders,20.31
+97ebb357-2eaf-4842-8f4d-32f43d35772f,Mint Fresh,Deodorants and Dusting Powders,6.46
+2d1ae7d1-a346-42a4-a703-9a9fd38a1ebf,Vanilla Sweet,Deodorants and Dusting Powders,17.39
